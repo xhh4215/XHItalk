@@ -33,4 +33,5 @@ ext{
     //相关的依赖
     supportVersion = '27.0.0'
     butterknifeVersion = '8.5.1'
+
 }
